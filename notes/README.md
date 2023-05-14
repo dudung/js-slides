@@ -1,4 +1,5 @@
 # notes
 examples of notes as presentation slide
 
-+ [html](00/index.html)
++ [single_html](00/index.html)
++ [html_css_js](01/index.html)
